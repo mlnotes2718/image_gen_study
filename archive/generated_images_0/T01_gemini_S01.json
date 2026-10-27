@@ -1,0 +1,17 @@
+{
+  "image_id": "T01_gemini_S01",
+  "prompt_id": "T01",
+  "category": "object_counting",
+  "prompt": "Generate an image containing exactly the following objects: 3 silver spheres with metallic surfaces, 2 green pyramids, and 4 yellow cubes. Arrange all 9 objects on a plain white background. All objects must be fully visible, clearly separated, and not overlapping. Do not include any additional objects or text.",
+  "provider": "gemini",
+  "model_requested": "gemini-3-pro-image",
+  "response_id": "v1_ChdZQzdmYXAyaENjMkQ2OTRQbXZDaG9BYxIXWUM3ZmFwMmhDYzJENjk0UG12Q2hvQWM",
+  "sample": 1,
+  "timestamp_utc": "2026-10-26T10:41:58.386697+00:00",
+  "latency_seconds": 22.993,
+  "image_path": "generated_images/T01_gemini_S01.jpg",
+  "width": 1024,
+  "height": 1024,
+  "format": "JPEG",
+  "status": "success"
+}

@@ -1,0 +1,17 @@
+{
+  "image_id": "T02_gemini_S01",
+  "prompt_id": "T02",
+  "category": "spatial_relationships",
+  "prompt": "Generate a photorealistic image showing the following arrangement of objects: A large red cube balancing directly on the sharp tip of a green pyramid. The green pyramid is standing upright on a flat white table. A blue sphere is floating in mid-air to the right of the pyramid, without any visible support. A yellow cylinder is positioned horizontally underneath the floating blue sphere, without touching it. All objects must be clearly visible. Do not include any supporting structures, strings, or additional objects. Use a slightly elevated camera angle and a plain white background.",
+  "provider": "gemini",
+  "model_requested": "gemini-3-pro-image",
+  "response_id": "v1_ChdsaTdmYXByeENOcURnOFVQX095YWlRcxIXbGk3ZmFwcnhDTnFEZzhVUF9PeWFpUXM",
+  "sample": 1,
+  "timestamp_utc": "2026-10-26T10:42:51.520836+00:00",
+  "latency_seconds": 22.121,
+  "image_path": "generated_images/T02_gemini_S01.jpg",
+  "width": 1024,
+  "height": 1024,
+  "format": "JPEG",
+  "status": "success"
+}
