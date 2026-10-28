@@ -287,3 +287,5 @@ $RECYCLE.BIN/
 ## MLNOTES2718 Specific
 # Ignore specific logs and reports
 gitleaks_report.csv
+
+generated_images/
